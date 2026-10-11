@@ -38,11 +38,11 @@ public class PeopleMenu {
         ));
 
         daftarMahasiswa.add(new Person(
-                "2501066", "Nadia", 2005, "Cuti", "Sistem Informasi"
+                "2501066", "Dwi", 2005, "Cuti", "Sistem Informasi"
         ));
 
         daftarMahasiswa.add(new Person(
-                "2501067", "Raka", 2004, "Alumni", "Kecerdasan Buatan"
+                "2501067", "Listiana", 2004, "Alumni", "Kecerdasan Buatan"
         ));
 
         //tampiljan tabel
