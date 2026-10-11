@@ -56,7 +56,7 @@ Urutan eksekusi program saya ini menjadi:
 ![Setelah ubah data](Dokumentasi/5_After_Ubah_TahunLahir_datake4.png)
 
 ### 4. Hapus Data
-![Konfirmasi hapus](Dokumentasi/5_Before_Hapus_Data.png)
+![Konfirmasi hapus](Dokumentasi/5_Before_HapusData.png)
 
 ![Setelah hapus](Dokumentasi/6_After_HapusData.png)
 
